@@ -1,3 +1,6 @@
+Make or Mend It Limited
+https://www.makeormendit.co.uk
+
 Simple docker-compose.yml to generate a Docker WordPress Dev enviroment. With volumes that can be accessed vi any file explorer.
 
 Just simple and easy.
